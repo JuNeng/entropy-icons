@@ -1,0 +1,295 @@
+
+.icon-activity {
+	background-image: url('png/activity.png');
+	background-repeat: no-repeat;
+}
+
+.icon-add {
+	background-image: url('png/add.png');
+	background-repeat: no-repeat;
+}
+
+.icon-apply {
+	background-image: url('png/apply.png');
+	background-repeat: no-repeat;
+}
+
+.icon-assess {
+	background-image: url('png/assess.png');
+	background-repeat: no-repeat;
+}
+
+.icon-assessments {
+	background-image: url('png/assessments.png');
+	background-repeat: no-repeat;
+}
+
+.icon-attention {
+	background-image: url('png/attention.png');
+	background-repeat: no-repeat;
+}
+
+.icon-bad {
+	background-image: url('png/bad.png');
+	background-repeat: no-repeat;
+}
+
+.icon-bronze {
+	background-image: url('png/bronze.png');
+	background-repeat: no-repeat;
+}
+
+.icon-candidate-breakdown {
+	background-image: url('png/candidate-breakdown.png');
+	background-repeat: no-repeat;
+}
+
+.icon-candidate-flow {
+	background-image: url('png/candidate-flow.png');
+	background-repeat: no-repeat;
+}
+
+.icon-candidate-sources {
+	background-image: url('png/candidate-sources.png');
+	background-repeat: no-repeat;
+}
+
+.icon-chart {
+	background-image: url('png/chart.png');
+	background-repeat: no-repeat;
+}
+
+.icon-check {
+	background-image: url('png/check.png');
+	background-repeat: no-repeat;
+}
+
+.icon-comment {
+	background-image: url('png/comment.png');
+	background-repeat: no-repeat;
+}
+
+.icon-copy {
+	background-image: url('png/copy.png');
+	background-repeat: no-repeat;
+}
+
+.icon-current-pipeline {
+	background-image: url('png/current-pipeline.png');
+	background-repeat: no-repeat;
+}
+
+.icon-custom-reporting {
+	background-image: url('png/custom-reporting.png');
+	background-repeat: no-repeat;
+}
+
+.icon-customize {
+	background-image: url('png/customize.png');
+	background-repeat: no-repeat;
+}
+
+.icon-delete {
+	background-image: url('png/delete.png');
+	background-repeat: no-repeat;
+}
+
+.icon-disqualify {
+	background-image: url('png/disqualify.png');
+	background-repeat: no-repeat;
+}
+
+.icon-drawer-green {
+	background-image: url('png/drawer-green.png');
+	background-repeat: no-repeat;
+}
+
+.icon-drawer-white {
+	background-image: url('png/drawer-white.png');
+	background-repeat: no-repeat;
+}
+
+.icon-drawer {
+	background-image: url('png/drawer.png');
+	background-repeat: no-repeat;
+}
+
+.icon-edit {
+	background-image: url('png/edit.png');
+	background-repeat: no-repeat;
+}
+
+.icon-evaluate {
+	background-image: url('png/evaluate.png');
+	background-repeat: no-repeat;
+}
+
+.icon-event {
+	background-image: url('png/event.png');
+	background-repeat: no-repeat;
+}
+
+.icon-filter {
+	background-image: url('png/filter.png');
+	background-repeat: no-repeat;
+}
+
+.icon-folder {
+	background-image: url('png/folder.png');
+	background-repeat: no-repeat;
+}
+
+.icon-gold {
+	background-image: url('png/gold.png');
+	background-repeat: no-repeat;
+}
+
+.icon-good {
+	background-image: url('png/good.png');
+	background-repeat: no-repeat;
+}
+
+.icon-hire {
+	background-image: url('png/hire.png');
+	background-repeat: no-repeat;
+}
+
+.icon-hiring-velocity {
+	background-image: url('png/hiring-velocity.png');
+	background-repeat: no-repeat;
+}
+
+.icon-historic-pipeline {
+	background-image: url('png/historic-pipeline.png');
+	background-repeat: no-repeat;
+}
+
+.icon-inbox {
+	background-image: url('png/inbox.png');
+	background-repeat: no-repeat;
+}
+
+.icon-info {
+	background-image: url('png/info.png');
+	background-repeat: no-repeat;
+}
+
+.icon-interview {
+	background-image: url('png/interview.png');
+	background-repeat: no-repeat;
+}
+
+.icon-message {
+	background-image: url('png/message.png');
+	background-repeat: no-repeat;
+}
+
+.icon-more {
+	background-image: url('png/more.png');
+	background-repeat: no-repeat;
+}
+
+.icon-moved {
+	background-image: url('png/moved.png');
+	background-repeat: no-repeat;
+}
+
+.icon-no {
+	background-image: url('png/no.png');
+	background-repeat: no-repeat;
+}
+
+.icon-offer {
+	background-image: url('png/offer.png');
+	background-repeat: no-repeat;
+}
+
+.icon-phone {
+	background-image: url('png/phone.png');
+	background-repeat: no-repeat;
+}
+
+.icon-productivity {
+	background-image: url('png/productivity.png');
+	background-repeat: no-repeat;
+}
+
+.icon-question {
+	background-image: url('png/question.png');
+	background-repeat: no-repeat;
+}
+
+.icon-recommend {
+	background-image: url('png/recommend.png');
+	background-repeat: no-repeat;
+}
+
+.icon-referral {
+	background-image: url('png/referral.png');
+	background-repeat: no-repeat;
+}
+
+.icon-reply {
+	background-image: url('png/reply.png');
+	background-repeat: no-repeat;
+}
+
+.icon-revert {
+	background-image: url('png/revert.png');
+	background-repeat: no-repeat;
+}
+
+.icon-send {
+	background-image: url('png/send.png');
+	background-repeat: no-repeat;
+}
+
+.icon-shortlist {
+	background-image: url('png/shortlist.png');
+	background-repeat: no-repeat;
+}
+
+.icon-silver {
+	background-image: url('png/silver.png');
+	background-repeat: no-repeat;
+}
+
+.icon-snooze {
+	background-image: url('png/snooze.png');
+	background-repeat: no-repeat;
+}
+
+.icon-source {
+	background-image: url('png/source.png');
+	background-repeat: no-repeat;
+}
+
+.icon-star {
+	background-image: url('png/star.png');
+	background-repeat: no-repeat;
+}
+
+.icon-stop {
+	background-image: url('png/stop.png');
+	background-repeat: no-repeat;
+}
+
+.icon-time-to-hire {
+	background-image: url('png/time-to-hire.png');
+	background-repeat: no-repeat;
+}
+
+.icon-unsnooze {
+	background-image: url('png/unsnooze.png');
+	background-repeat: no-repeat;
+}
+
+.icon-upload {
+	background-image: url('png/upload.png');
+	background-repeat: no-repeat;
+}
+
+.icon-wakeup {
+	background-image: url('png/wakeup.png');
+	background-repeat: no-repeat;
+}
