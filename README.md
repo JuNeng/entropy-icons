@@ -1,2 +1,4 @@
-# entropy-icons
-Entropy Icons
+# Standalone icon fonts from Entropy-UI
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
